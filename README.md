@@ -17,7 +17,7 @@ O projeto tem como objetivo dar suporte a equipe de nutricionistas da empresa Fi
 
 ### Passos para Instalação e Uso da API
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/thyago666/truckpag.git
 
 2. Abrir o projeto com o visual Studio code ou alguma IDE de sua preferencia
 
